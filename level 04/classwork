@@ -1,0 +1,15 @@
+num1 = 10
+num2 = 20
+
+print(num2 + 1)
+
+#reasign = გადაწერა
+
+#balance = 200
+#discount = 0.5
+#price = 100
+
+#print(balance - price * 0.5)
+
+
+
