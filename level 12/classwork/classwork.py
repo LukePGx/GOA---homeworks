@@ -1,0 +1,26 @@
+# task 1
+
+age = int(input("enter your age: "))
+
+if age < 13:
+    print("you are kid")
+
+elif age in range(13, 20):
+    print("you are teenager")
+
+else:
+    print("you are an adult")
+
+# task 2
+
+i = 1
+
+while i <= 100:
+    if i in range(40, 51):
+        pass
+    else:
+        print(i)
+    i += 1
+
+
+
