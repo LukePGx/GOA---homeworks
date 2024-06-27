@@ -153,7 +153,7 @@ total = 0
 
 while number != 0:
     total += number
-    print("███████████████ +")
+   # print("███████████████ +")
 
     number = int(input('Enter a number: '))
 
