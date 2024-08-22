@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Matemasie&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Matemasie&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Edu+VIC+WA+NT+Beginner:wght@400..700&family=Matemasie&display=swap');
+
+
+
+
+header {
+    background-color: #0f0f0f42;
+}
+
+body {
+    background-color: #0f0f0f;
+}
+
+
+footer {
+    outline: auto;
+    outline-color: white;
+
+/*navbar*/
+
+}
+
+ul {
+    color: cyan;
+}
+
+/*paragraphs*/
+
+p {
+    color: white;
+}
+
+
+/* main */
+
+#p1 {
+    text-decoration: underline solid;
+    color: red;
+}
+
+#p2 {
+    text-decoration: line-through solid;
+    color: rgb(0, 255, 0);
+}
+
+#p3 {
+    text-decoration: overline solid;
+    color: blue;
+}
+
+#p4 {
+    text-decoration: underline dashed;
+    color: red;
+}
+
+
+#p5 {
+    text-decoration: line-through dashed;
+    color: rgb(0, 255, 0);
+}
+
+#p6 {
+    text-decoration: overline dashed;
+    color: blue;
+}
+
+#p7 {
+    text-decoration: underline dotted;
+    color: red;
+}
+
+#p8 {
+    text-decoration: line-through dotted;
+    color: rgb(0, 255, 0);
+}
+
+#p9 {
+    text-decoration: overline dotted;
+    color: blue;
+}
+
+#p10 {
+    text-decoration: underline double;
+    color: red;
+}
+
+#p11 {
+    text-decoration: line-through double;
+    color: rgb(0, 255, 0);
+}
+
+#p12 {
+    text-decoration: overline double;
+    color: blue;
+}
+
+#p13 {
+    text-decoration: underline wavy;
+    color: red;
+}
+
+#p14 {
+    text-decoration: line-through wavy;
+    color: rgb(0, 255, 0);
+}
+
+#p15 {
+    text-decoration: overline wavy;
+    color: blue;
+}
+
+button {
+    color: cyan;
+    background-color: black;
+}
+
+/* main/fonts page */
+
+#p16 {
+    font-family: Matemasie, sans-serif;
+}
+
+#p17 {
+    font-family: Bungee Tint, sans-serif;
+}
+
+#p18 {
+    font-family:Edu VIC WA NT Beginner, sans-serif;
+}
+
+
