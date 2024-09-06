@@ -1,0 +1,18 @@
+ol {
+    list-style-type: upper-roman;
+}
+      
+ul {
+    list-style-image: url('/classwork/images/doodle.jpg');
+
+}
+
+input[type="email"], input[type="text"], input[type="password"] {
+    border: 1px solid #FF9E03;
+    background-color: #17233B;
+    color: #FFFFFF;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+
