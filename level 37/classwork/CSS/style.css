@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-areas: 
+        "one"
+        "two three"
+        "four five";
+    grid-gap: 10px;
+    height: 100vh;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.item {
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+.one {
+    grid-area: one;
+    background: lightblue;
+}
+
+.two {
+    grid-area: two;
+    background: lightcoral;
+}
+
+.three {
+    grid-area: three;
+    background: lightgreen;
+}
+
+.four {
+    grid-area: four;
+    background: lightyellow;
+}
+
+.five {
+    grid-area: five;
+    background: lightgray;
+}
