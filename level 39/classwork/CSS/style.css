@@ -1,0 +1,41 @@
+*{
+    padding: 10px;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: 0.5s;
+
+}
+
+
+.div1:hover{
+    transform: translate(50px);
+}
+
+.div2:hover{
+    scale: 2;
+}
+
+.div3:hover{
+    scale: 2;
+}
+
+.div3:active{
+    scale: 1.7;
+    transition: 0.1s;
+}
+
+.div4:hover{
+    rotate: 180deg;
+}
